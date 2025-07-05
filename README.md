@@ -8,7 +8,7 @@ To build a visual analytics dashboard to explore mobile sales performance across
 
 ## 📁 Dataset
 
-- **File Name**: Mobile Sales Data : 
+- **File Name**: Mobile Sales Data : < a href="https://github.com/harsha21h/Mobile-sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">`Mobile_Sales_Dataset`<a>
 - **Key Features**:
   - City
   - Mobile Brand
